@@ -1,12 +1,7 @@
 <template>
   <div id="home">
     <head-image />
-
-
-
-
-    
-
+    <!--Rahul changes in the new forked repo-->
     <promoted-offers />
 
     <section class="new-collection container px15">
