@@ -2,6 +2,11 @@
   <div id="home">
     <head-image />
 
+
+
+
+    
+
     <promoted-offers />
 
     <section class="new-collection container px15">
